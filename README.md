@@ -15,6 +15,6 @@
 
 ## My Fans ([999+](https://github.com/cnguu?tab=followers))
 
-| ![](https://avatars0.githubusercontent.com/u/499550?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/382813?s=80&v=4) | ![](https://avatars3.githubusercontent.com/u/33955669?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/23616581?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/21199796?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/28762707?s=80&v=4) |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| [Evan You](https://github.com/yyx990803) | [laruence](https://github.com/laruence) | [子非鱼](https://github.com/w4ctech) | [marcus-ma](https://github.com/marcus-ma) | [TonyHe](https://github.com/HelipengTony) | [Orange](https://github.com/smallsunnyfox) |
+| ![](https://avatars0.githubusercontent.com/u/499550?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/382813?s=80&v=4) | ![](https://avatars2.githubusercontent.com/u/97227?s=80&v=4) | ![](https://avatars0.githubusercontent.com/u/245270?s=80&v=4) | ![](https://avatars3.githubusercontent.com/u/33955669?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/23616581?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/21199796?s=80&v=4) | ![](https://avatars1.githubusercontent.com/u/28762707?s=80&v=4) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| [Evan You](https://github.com/yyx990803) | [laruence](https://github.com/laruence) | [lifesinger](https://github.com/lifesinger) | [Carbo Kuo](https://github.com/BYVoid) | [子非鱼](https://github.com/w4ctech) | [marcus-ma](https://github.com/marcus-ma) | [TonyHe](https://github.com/HelipengTony) | [Orange](https://github.com/smallsunnyfox) |
