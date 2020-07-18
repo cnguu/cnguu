@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./hello-world.gif" width="30%">
+  <img src="https://cdn.jsdelivr.net/gh/cnguu/cnguu@master/hello-world.gif" width="30%">
 </p>
 
 - 🔭 I’m currently working on FoxKit CMS
