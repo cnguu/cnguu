@@ -11,4 +11,4 @@
 - 😄 Pronouns: cnguu
 - ⚡ Fun fact: ...
 
-[![Github Stats By cnguu](https://github-readme-stats.vercel.app/api?username=cnguu&show_icons=true&title_color=7546c9&icon_color=7546c9&text_color=c8b6ea&bg_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By cnguu](https://github-readme-stats.vercel.app/api?username=cnguu&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=166cbd&bg_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
