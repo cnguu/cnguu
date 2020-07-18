@@ -2,7 +2,7 @@
   <img src="https://cdn.jsdelivr.net/gh/cnguu/cnguu@master/hello-world.gif" width="30%">
 </p>
 
-- 🔭 I’m currently working on FoxKit CMS
+- 🔭 I’m currently working on FoxKit CMS and vuepress theme
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with VueJS development
@@ -11,4 +11,4 @@
 - 😄 Pronouns: cnguu
 - ⚡ Fun fact: ...
 
-[![Github Stats By cnguu](https://github-readme-stats.vercel.app/api?username=cnguu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By cnguu](https://github-readme-stats.vercel.app/api?username=cnguu&show_icons=true&title_color=7546c9&icon_color=7546c9&text_color=c8b6ea&bg_color=24292e)](https://github.com/anuraghazra/github-readme-stats)
