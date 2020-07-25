@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on FoxKit CMS and vuepress theme
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with VueJS development
+- 🤔 I’m looking for help with FoxKit CMS
 - 💬 Ask me about ...
 - 📫 Reach me: www@cnguu.cn
 - 😄 Pronouns: cnguu
